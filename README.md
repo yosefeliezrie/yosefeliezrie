@@ -1,4 +1,4 @@
-## Hi there 👋, I am Yosef ELiezrie
+## Hi there 👋, I am Yosef Eliezrie
 
 As a US-born, Melbourne, Australia based product-driven innovator, I thrive on crafting ideas and turning them into reality.
 
