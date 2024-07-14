@@ -9,7 +9,7 @@ With hands-on experience in web development technologies like HTML, CSS, JavaScr
 
 ### About Me
 
-I am a highly skilled and experienced solutions architect and engineer with over 15 years of expertise in the field. Throughout my career, I have consistently demonstrated a proven track record of designing and implementing complex systems that effectively solve business challenges while maximizing performance, scalability, and security.
+I am a highly skilled and experienced solutions architect and software engineer with over 15 years of expertise in the field. Throughout my career, I have consistently demonstrated a proven track record of designing and implementing complex systems that effectively solve business challenges while maximizing performance, scalability, and security.
 
 My passion lies in leveraging cloud computing, DevOps practices, solutions architecture, and agile methodologies to lead teams towards delivering innovative and highly effective solutions. I possess extensive knowledge and hands-on experience with leading cloud platforms such as AWS, GCP, along with a wide range of technologies and programming.
 
