@@ -21,10 +21,11 @@ As a continuous learner, I actively seek opportunities to expand my knowledge an
 
 ### Connect with me
 
-- 💬 You can find me on X/Twitter [https://x.com/yosefeliezrie](@yosefeliezrie), email via yosef@yosefeliezrie.com, or discord via @yosefeliezrie
+- 💬 You can find me on [𝕏 @yosefeliezrie](https://x.com/yosefeliezrie), email via yosef@yosefeliezrie.com, or discord via @yosefeliezrie
 - 👯 I’m looking to collaborate on open source projects that empour non profits and those helping others.
 - ❤️ Your sponsorship means a lot to me and supports what I do.
 - 💬 Ask me anything I am always here to help!
+
 
 <!-- 
 ### Things I am working on
@@ -36,6 +37,6 @@ As a continuous learner, I actively seek opportunities to expand my knowledge an
 ### Some facts
 - 🐕 I love all dogs. Our cavoodle Lucky reviews most of my code.
 - 🌱 I’m currently learning mobile app development
-- 🍣 I was a chef in the past and love all things food and cooking. I love I love sushi, meat, and pasta. 
-- ◼️ Dark mode, semi; and spaces.
+- 🍣 I was a chef in the past and love all things food and cooking. 
+- ◼️ Dark mode, semi; and tabs.
 
